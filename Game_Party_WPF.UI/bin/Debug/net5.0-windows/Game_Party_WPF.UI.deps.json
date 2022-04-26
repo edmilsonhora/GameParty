@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Game_Party_WPF.UI/1.0.0": {
+        "dependencies": {
+          "Game_Party_WPF.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Game_Party_WPF.UI.dll": {}
+        }
+      },
+      "Game_Party_WPF.Domain/1.0.0": {
+        "runtime": {
+          "Game_Party_WPF.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Game_Party_WPF.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Game_Party_WPF.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
